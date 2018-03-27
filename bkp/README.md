@@ -1,2 +1,0 @@
-# ayrtonkrizan
-Personal page for 
