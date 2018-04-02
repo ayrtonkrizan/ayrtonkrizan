@@ -1,7 +1,7 @@
-#Ayrton Krizan
+# Ayrton Krizan
 Personal site to share projects and experiences.
 
-##Base on 
+## Base on 
 [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
